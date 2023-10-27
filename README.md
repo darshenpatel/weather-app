@@ -1,3 +1,13 @@
+# Building a Weather App with ChatGPT 
+
+This project was initialized with code provided by ChatGPT. 
+
+The prompt requested: 
+    "Build me a weather app in react using Axios and the OpenWeather API. Please include a css stylesheet."
+
+The next prompt requested: 
+    "Include tailwind css details."
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
